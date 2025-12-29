@@ -164,7 +164,7 @@ Este projeto está aberto a contribuições! Sinta-se à vontade para:
 ## 📞 Contato
 
 - **GitHub:** [@Brunorsimas](https://github.com/Brunorsimas)
-- **LinkedIn:** [Seu perfil]
+- **LinkedIn:** [Bruno_Rafael](https://www.linkedin.com/in/bruno-rafael-95b781186/)
 - **Email:** [seu email]
 
 ---
